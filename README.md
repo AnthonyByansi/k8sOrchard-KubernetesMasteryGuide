@@ -1,6 +1,11 @@
+
+<div align="center">
+  <img src="path/to/your/logo.png" alt="Kubernetes Mastery Guide Logo" width="300" height="300">
+</div>
+
 # Kubernetes Mastery Guide
 
-Welcome to the Kubernetes Mastery Guide repository! This comprehensive guide is designed to empower professionals in mastering Kubernetes for orchestrating cloud-native applications. Whether you're a beginner or an experienced practitioner, this repository will take you on a journey from the basics to advanced topics.
+Welcome to the Kubernetes Mastery Guide! This comprehensive guide is designed to empower professionals in mastering Kubernetes for orchestrating cloud-native applications. Whether you're a beginner or an experienced practitioner, this repository will take you on a journey from the basics to advanced topics.
 
 ## Table of Contents
 
