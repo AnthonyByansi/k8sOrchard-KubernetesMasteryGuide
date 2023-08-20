@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="path/to/your/logo.png" alt="Kubernetes Mastery Guide Logo" width="300" height="300">
+  <img src="images/kubernetes-logo.png" alt="Kubernetes Mastery Guide Logo" width="300" height="300">
 </div>
 
 # Kubernetes Mastery Guide
