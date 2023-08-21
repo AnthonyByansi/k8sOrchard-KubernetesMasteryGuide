@@ -60,10 +60,12 @@ With your environment set up, you're ready to explore Kubernetes. In the next se
 ## Troubleshooting
 Encountering issues during setup? Check out the troubleshooting section for solutions to common installation problems.
 - [Troubleshooting Guide]()
+
+  ---
 <div align="center">
   Your Kubernetes journey starts with a solid environment setup. Let's get you ready to master Kubernetes!
 </div>
-```
+
 
 
 
