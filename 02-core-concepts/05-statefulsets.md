@@ -68,4 +68,3 @@ Now that you have a grasp of StatefulSets, let's dive into managing configuratio
 <div align="center">
   Master the management of stateful applications with Kubernetes StatefulSets using the Kubernetes Mastery Guide.
 </div>
-```
