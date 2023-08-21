@@ -11,7 +11,7 @@ Thank you for your interest in contributing to the Kubernetes Mastery Guide! You
 
 ## Reporting Issues
 
-If you come across any issues with the content, such as errors, typos, or inaccuracies, please feel free to [open an issue](). Provide a clear and detailed description of the problem you've encountered. Including screenshots or excerpts from the content can be helpful.
+If you come across any issues with the content, such as errors, typos, or inaccuracies, please feel free to [open an issue](https://github.com/AnthonyByansi/k8sOrchard-KubernetesMasteryGuide/issues). Provide a clear and detailed description of the problem you've encountered. Including screenshots or excerpts from the content can be helpful.
 
 ## Submitting Pull Requests
 
