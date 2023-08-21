@@ -11,7 +11,7 @@ Thank you for your interest in contributing to the Kubernetes Mastery Guide! You
 
 ## Reporting Issues
 
-If you come across any issues with the content, such as errors, typos, or inaccuracies, please feel free to [open an issue](link_to_issue_tracker). Provide a clear and detailed description of the problem you've encountered. Including screenshots or excerpts from the content can be helpful.
+If you come across any issues with the content, such as errors, typos, or inaccuracies, please feel free to [open an issue](). Provide a clear and detailed description of the problem you've encountered. Including screenshots or excerpts from the content can be helpful.
 
 ## Submitting Pull Requests
 
@@ -34,9 +34,8 @@ If you'd like to contribute improvements to the content, follow these steps:
 
 ## Code of Conduct
 
-By contributing to this repository, you agree to adhere to the [Code of Conduct](link_to_code_of_conduct). Treat all contributors and users with respect and create a welcoming environment for everyone.
+By contributing to this repository, you agree to adhere to the [Code of Conduct](CODE_OF_CONDUCT.md). Treat all contributors and users with respect and create a welcoming environment for everyone.
 
 Your contributions are greatly appreciated, and we'll do our best to review and merge them in a timely manner. Thank you for making the Kubernetes Mastery Guide better for everyone!
 
-For more detailed guidelines, check out our [full contributing guide](link_to_contributing_guide).
 
