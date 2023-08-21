@@ -56,6 +56,8 @@ spec:
 ## Ready to Explore Replication Controllers?
 Now that you understand the basics of Pods, let's move on to Replication Controllers—the mechanism that ensures the desired number of Pod replicas are running. Click the "Next: Replication Controllers" button above to continue your journey.
 
+---
+
 <div align="center">
   Gain mastery over Kubernetes Pods with the Kubernetes Mastery Guide.
 </div>
