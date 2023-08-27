@@ -1,17 +1,8 @@
 
 <div align="center">
-  <img src="images/kubernetes-logo.png" alt="Kubernetes Mastery Guide Logo" width="300" height="300">
+  <img src="images/icons8-kubernetes-240.png" alt="Kubernetes Mastery Guide Logo" width="300" height="300">
+  <h1>Kubernetes Mastery Guide</h1>
 </div>
-
-# Kubernetes Mastery Guide
-
-[![GitHub license](https://img.shields.io/github/license/your-username/k8sOrchard-KubernetesMasteryGuide)](https://github.com/your-username/k8sOrchard-KubernetesMasteryGuide/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/your-username/k8sOrchard-KubernetesMasteryGuide)](https://github.com/your-username/k8sOrchard-KubernetesMasteryGuide/issues)
-[![GitHub stars](https://img.shields.io/github/stars/your-username/k8sOrchard-KubernetesMasteryGuide)](https://github.com/your-username/k8sOrchard-KubernetesMasteryGuide/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/k8sOrchard-KubernetesMasteryGuide)](https://github.com/your-username/k8sOrchard-KubernetesMasteryGuide/network)
-[![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fyour-username%2Fk8sOrchard-KubernetesMasteryGuide%2F)](https://twitter.com/intent/tweet?text=Check%20out%20the%20Kubernetes%20Mastery%20Guide%20repository%20on%20GitHub%20%40your-twitter-handle%20%F0%9F%9A%80%20https%3A%2F%2Fgithub.com%2Fyour-username%2Fk8sOrchard-KubernetesMasteryGuide%2F)
-
-# Kubernetes Mastery Guide
 
 Welcome to the Kubernetes Mastery Guide! This comprehensive guide is designed to empower professionals in mastering Kubernetes for orchestrating cloud-native applications. Whether you're a beginner or an experienced practitioner, this repository will take you on a journey from the basics to advanced topics.
 
